@@ -1,9 +1,4 @@
-
----
-
 ### ✅ **TODO.md**
-📌 **File:** `TODO.md`  
-```md
 # ✅ TODO List - Discord OAuth2 WinForms
 
 ### 🔹 **Enhancements**
@@ -24,5 +19,3 @@
 ### 🔹 **UI/UX Improvements**  
 - [ ] **Improve Loading Indicators for API Calls** ⏳  
 - [ ] **Display User’s Nitro Status with Icons** 🚀  
-
----
